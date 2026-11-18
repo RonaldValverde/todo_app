@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "descripcion": "Estudiar python",
+        "prioridad": "baja",
+        "completada": false,
+        "categoria": "Estudiar"
+    }
+]
